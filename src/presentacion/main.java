@@ -126,10 +126,10 @@ public class main extends javax.swing.JFrame {
         });
         getContentPane().add(jCheckBoxSustitucion, new org.netbeans.lib.awtextra.AbsoluteConstraints(1250, 50, 200, -1));
 
-        jLabelSubtitulo.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
+        jLabelSubtitulo.setFont(new java.awt.Font("Times New Roman", 0, 24)); // NOI18N
         jLabelSubtitulo.setForeground(new java.awt.Color(153, 255, 102));
         jLabelSubtitulo.setText("Desplazamiento/Tamaño:");
-        getContentPane().add(jLabelSubtitulo, new org.netbeans.lib.awtextra.AbsoluteConstraints(1430, 20, -1, -1));
+        getContentPane().add(jLabelSubtitulo, new org.netbeans.lib.awtextra.AbsoluteConstraints(1380, 20, -1, -1));
 
         jButtonCifrar.setBackground(new java.awt.Color(153, 255, 102));
         jButtonCifrar.setFont(new java.awt.Font("Times New Roman", 0, 24)); // NOI18N
